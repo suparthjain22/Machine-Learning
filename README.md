@@ -1,1 +1,1 @@
-End to End Machine Learning Projectgit
+End to End Machine Learning Project
